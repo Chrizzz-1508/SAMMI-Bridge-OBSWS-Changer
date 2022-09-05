@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SAMMI Bridge - OBSWS Changer", "SAMMI Bridge - OBSWS Changer\SAMMI Bridge - OBSWS Changer.csproj", "{E6AE76CD-C14B-4A49-83BC-27ECCE69312D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E6AE76CD-C14B-4A49-83BC-27ECCE69312D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6AE76CD-C14B-4A49-83BC-27ECCE69312D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6AE76CD-C14B-4A49-83BC-27ECCE69312D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6AE76CD-C14B-4A49-83BC-27ECCE69312D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {779009EB-CC6C-4083-8DFE-6FFBD45C08A3}
+	EndGlobalSection
+EndGlobal
